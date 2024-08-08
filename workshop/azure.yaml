@@ -4,5 +4,5 @@ name: workshop
 services:  
   app:
     language: dotnet
-    project: .\AspireYouTubeSummariser.AppHost\AspireYouTubeSummariser.AppHost.csproj
+    project: ./AspireYouTubeSummariser.AppHost/AspireYouTubeSummariser.AppHost.csproj
     host: containerapp
